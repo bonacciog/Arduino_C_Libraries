@@ -10,7 +10,7 @@ Implementation of libraries written in C pure languague and using AVR Compiler, 
  
  For more information:
 
-  - [.git/objects/79/e108a03ca2c24d2904638d8d14d241335f72cc](http://)
+  - https://github.com/bonacciog/Arduino_C_Libraries/blob/docs-ita/TESI-GIOVANNIBONACCIO.pdf
 
 To compile and execute:
 
