@@ -10,8 +10,9 @@ Implementation of libraries written in C pure languague and using AVR Compiler, 
  
  For more information:
 
-  
- To compile and execute:
+  - [.git/objects/79/e108a03ca2c24d2904638d8d14d241335f72cc](http://)
+
+To compile and execute:
 
     $ avr-gcc -Os -mmcu=atmega328p -DF_CPU=16000000UL -o led.o lampeggioLED.c commands.c
             
@@ -24,4 +25,4 @@ Implementation of libraries written in C pure languague and using AVR Compiler, 
 
  To show the assembly code:
 
-    $ avr-objdump -h -S led.elf>led.lst!
+    $ avr-objdump -h -S led.elf>led.lst
