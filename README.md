@@ -1,6 +1,6 @@
 # Arduino_C_Libraries
 
-Implementation of libraries written in C pure languague and using AVR Compiler, for devices:
+Implementation of libraries written in C pure language and using AVR Compiler, for devices:
 
   - 7 Segments Display
   - LCD Display
